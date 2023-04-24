@@ -1,0 +1,29 @@
+body {
+    padding: 150px;
+    background-color: rgb(183, 126, 236);
+}
+
+.hello { 
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: bold;
+    margin-left: 30px;
+}
+
+button {
+    border: none;
+    background-color: blueviolet;
+    border-radius: 18px;
+    padding: 20px;
+    margin: 30px;
+    font-size: 25px;
+}
+
+button:hover {
+    background-color: #000000;
+    color: blueviolet;
+}
+
+p {
+    text-align: justify;
+}
