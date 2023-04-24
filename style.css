@@ -27,3 +27,7 @@ button:hover {
 p {
     text-align: justify;
 }
+
+img {
+    border-radius: 15px;
+}
