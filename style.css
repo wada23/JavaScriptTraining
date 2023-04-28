@@ -1,5 +1,5 @@
 body {
-    padding: 150px;
+    padding: 50px;
     background-color: rgb(183, 126, 236);
 }
 
@@ -26,8 +26,15 @@ button:hover {
 
 p {
     text-align: justify;
+    font-size: 15px;
 }
 
 img {
     border-radius: 15px;
+}
+
+.jasmine {
+    font-size: 40px;
+    background-color:rgb(10, 214, 102);
+    padding: 10px;
 }
